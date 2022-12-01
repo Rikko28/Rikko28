@@ -1,6 +1,1 @@
-### Hi there 👋
-
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/lukasdzenkauskas/lukasdzenkauskas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rikko alt="Rikko GitHub Stats" />
-</a>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
